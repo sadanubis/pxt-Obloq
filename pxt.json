@@ -1,7 +1,7 @@
 {
     "name": "Obloq",
     "version": "1.0.0",
-    "description": "Add Wi-Fi connectivity to micro:bit and start your IoT project in 5 minutes!",
+    "description": "Add Wi-Fi connectivity to micro:bit ,used in a personal iot project ,The iot server is baidu iot server GZ",
     "license": "MIT",
     "dependencies": {
         "core": "*",
