@@ -103,7 +103,7 @@ namespace Obloq {
     
     export enum SERVERS { 
         //% blockId=SERVERS_China block="China"
-        China_Badu_GZ,
+        China,
         //% blockId=SERVERS_Global block="Global"
         Global
     }
