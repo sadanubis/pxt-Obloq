@@ -14,6 +14,8 @@
  * @========================================
  * @ Only use is personer iot  test
  * @ change China sever :  from  "iot.dfrobot.com.cn"  to "ahn75vi.mqtt.iot.gz.baidubce.com"
+ * @ author nobody.......
+ * @=========================================
  */
 
 
@@ -101,7 +103,7 @@ namespace Obloq {
     
     export enum SERVERS { 
         //% blockId=SERVERS_China block="China"
-        China,
+        China_Badu_GZ,
         //% blockId=SERVERS_Global block="Global"
         Global
     }
