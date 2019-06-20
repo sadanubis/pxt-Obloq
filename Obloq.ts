@@ -11,6 +11,9 @@
  * @author [email](xin.li@dfrobot.com)
  * @version  V1.0
  * @date  2018-03-20
+ * @========================================
+ * @ Only use is personer iot  test
+ * @ change China sever :  from  "iot.dfrobot.com.cn"  to "ahn75vi.mqtt.iot.gz.baidubce.com"
  */
 
 
@@ -18,7 +21,9 @@
 const OBLOQ_DEBUG = false
 const OBLOQ_MQTT_DEFAULT_SERVER = true
 //DFRobot easy iot
-const OBLOQ_MQTT_EASY_IOT_SERVER_CHINA = "iot.dfrobot.com.cn"
+//const OBLOQ_MQTT_EASY_IOT_SERVER_CHINA = "iot.dfrobot.com.cn"
+//Baidubce iot , gz
+const OBLOQ_MQTT_EASY_IOT_SERVER_CHINA = "ahn75vi.mqtt.iot.gz.baidubce.com"
 const OBLOQ_MQTT_EASY_IOT_SERVER_GLOBAL = "iot.dfrobot.com"
 const OBLOQ_MQTT_EASY_IOT_PORT = 1883
 //other iot
